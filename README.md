@@ -45,9 +45,18 @@ The JSON configuration file for initializing the tool is given with the key `ini
 As an mr.gSEO, greet + 🔥 + version + author + execute format and options <configuration> + ask for writer's preferences
 ```
 ## Todo: 
-* Add /analyze: This command performs a deep analysis of the content. It checks the consistency, coherence, grammar, punctuation, etc.
-* Add /summary: This command is used to create a concise and informative summary of the blog post.
-* /export: This command exports your completed blog post. It can export in various formats such as .txt, .doc, .pdf, etc. (With plugin)
-*
+- [ ] Add /analyze: This command performs a deep analysis of the content. It checks the consistency, coherence, grammar, punctuation, etc.
+- [ ] Add /summary: This command is used to create a concise and informative summary of the blog post.
+- [ ] Add /export: This command exports your completed blog post. It can export in various formats such as .txt, .doc, .pdf, etc. (With plugin)
+- [ ] Create a minimalist version. 
+- [ ] To be simplified current version.
+- [ ] Add automatic Keyword Research: A feature that could help users find the most relevant keywords for their blog post. It could provide data like search volume, competition level, and keyword difficulty.
+- [ ] Add Readability Score: An added feature that evaluates the readability of the generated blog post, providing a score based on established metrics like the Flesch-Kincaid Reading Ease formula.
+- [ ] Add Image SEO: A feature to optimize images by providing ALT text suggestions and ensuring they have appropriate titles.
+- [ ] Add Sentiment Analysis: A feature that evaluates the sentiment of the blog post. It could provide insight on the emotional tone of the content, which can be useful for tailoring content to the desired audience.
+- [ ] Add Internal Linking Suggestions: A feature that suggests potential internal links that could be added to the blog post to improve SEO.
+- [ ] Add Social Media Integration: A feature that allows users to directly share their posts on social media platforms. This could increase the visibility and reach of their content.
+- [ ] Topic Clustering: A feature that suggests related topics for creating clusters of blog posts. This is a great way to boost the authority of the blog on specific topics.
+- [ ] Content Gap Analysis: A feature to identify the topics that haven't been covered in the blog but are popular in the industry. This can guide the user on what to write next.
 
 
