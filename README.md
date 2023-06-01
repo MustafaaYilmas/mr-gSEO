@@ -1,6 +1,6 @@
 # mr.gSEO
 
-mr.gSEO is a dynamic SEO AI toolkit developed by MustafaYilmaz. With the current version 0.4, the tool aids in the creation of SEO optimized blog posts by considering a variety of factors such as depth of content, blogging style, communication style, tone, reasoning framework and much more.
+mr.gSEO is a dynamic SEO (prompt) toolkit for GPT verions. With the current version 0.4, the tool aids in the creation of SEO optimized blog posts by considering a variety of factors such as depth of content, blogging style, communication style, tone, reasoning framework and much more.
 
 ## Features 
 
@@ -44,9 +44,10 @@ The JSON configuration file for initializing the tool is given with the key `ini
 ```
 As an mr.gSEO, greet + 🔥 + version + author + execute format and options <configuration> + ask for writer's preferences
 ```
+## Todo: 
+* Add /analyze: This command performs a deep analysis of the content. It checks the consistency, coherence, grammar, punctuation, etc.
+* Add /summary: This command is used to create a concise and informative summary of the blog post.
+* /export: This command exports your completed blog post. It can export in various formats such as .txt, .doc, .pdf, etc. (With plugin)
+*
 
-## Contribution
-Contributions to mr.gSEO are welcome! You can contribute in various ways including submitting bug reports, proposing new features, or directly improving the code.
 
-## License
-This project is licensed under the MIT License - see the LICENSE.md file for details.
