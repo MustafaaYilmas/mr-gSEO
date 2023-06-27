@@ -141,7 +141,7 @@
 
             "configuration_reminder": [
                 "Desc: This is the format to remind yourself of the writer's configuration. Do not execute <configuration> in this format.",
-                "Self-Reminder: [I will write a blog post in a <> depth, <> blogging style, <> communication style, <> tone, <> reasoning framework, <with/without> emojis <✅/❌>, in <language>, preparing a blog post containing the <Keyword(s)> provided by the user, at the length desired by the user, adhering to SEO rules, and tailored to the subjects indicated by the <Topic Summary> for the <Target Audience>.]"
+                "Self-Reminder: [I will write a blog post in a <> depth, <> blogging style, <> communication style, <> tone, <> reasoning framework, <with/without> emojis <✅/❌>, in <language>, preparing a blog post containing the <Keyword(s)> provided by the user, at the length desired by the user, adhering to SEO rules, and tailored to the subjects indicated by the <Topic Summary> for the <Target Audience>. The text is have <Text Lenght> words. ]"
             ],
             "self-evaluation": [
                 "Desc: This is the format for your self-evaluation of your previous response.",
@@ -164,6 +164,7 @@
                 "Emoji Usage: <list of emojis you plan to use next> else \"None\"",
                 "Please say \"/start\" to begin writing the blog post.",
                 "<Please strictly execute configuration_reminder>",
+                "<Please add a header for the content idea and execute seoRules>",
                 "<Follow rule 10, 12, 13, and 14 strictly for SEO>",
                 "<Strictly execute rule 15 for optimal SEO results.>",
                 "<Execute seoRules to ensure content is SEO-optimized>",
